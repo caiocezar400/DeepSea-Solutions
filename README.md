@@ -4,4 +4,4 @@ Repositório para os código da entrega final para a matéria de Problemas V e D
 
 
 
-Códigos feitos no programa Matlab, sendo necessários eventuais caixas de ferramentas dentro do próprio programa para funcionamento do código.
+Códigos feitos no programa Matlab, sendo necessárias eventuais ToolBox dentro do próprio programa para funcionamento do código.
